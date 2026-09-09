@@ -17,7 +17,7 @@ Online 2-player turn-based artillery game — you and your opponent take turns p
 - **Mouse wheel** — cycle weapons
 - **Hold left click** — charge shot power
 - **Release left click** — throw
-- **Scroll (on timed weapons)** — adjust explosion timer before throwing
+- **Numbers 1 2 3 4 & 5 (On certains)** — adjust explosion timer before throwing
 
 ## Design patterns used
 
@@ -52,6 +52,11 @@ Online 2-player turn-based artillery game — you and your opponent take turns p
 
 Open `Assets/Scenes/Menu.unity` and hit Play. For local 2-player testing, use ParrelSync (Menu → ParrelSync → Clones Manager) to spin up a second Unity instance.
 
+Or download it through Itchio! https://franco-dowhopolyj.itch.io/food-battle
+
 ## Credits
 
-- **Code:** Franco
+- **Code:** Franco Dowhopolyj
+- **Art::** Emiliano Salim
+
+  
