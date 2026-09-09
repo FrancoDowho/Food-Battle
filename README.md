@@ -1,6 +1,7 @@
 # Food Battle!
 
 Online 2-player turn-based artillery game — you and your opponent take turns picking a weapon and lobbing it across a 2D battlefield, adjusting angle and shot power to hit each other. Built in Unity with Photon Fusion 2 (Host mode).
+This was a final exam for one of my subjects: Redes (Basically online games for Unity)
 
 ![](docs/foodbattle-1.gif)
 ![](docs/foodbattle-2.gif)
